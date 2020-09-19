@@ -1,4 +1,3 @@
-def Josh = "Hi, my name is Josh./n"
+def Josh
+  puts "Hi, my name is Josh./n"
 end
-
-puts Josh;
